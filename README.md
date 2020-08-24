@@ -1,17 +1,17 @@
 # **1. Table Digitization Architecture**
 This is the overview of table digitization process from a data science perspective
 
+![Alt text](docs/table_summary.jpg?raw=true "The Table Digitization - A DATA SCIENCE PERSPECTIVE")
 
 **A. Graph Model - A DATA SCIENCE PERSPECTIVE**
 
-![Alt text](docs/w.png?raw=true "THE CTPN TUTORIAL - A DATA SCIENCE PERSPECTIVE")
+![Alt text](docs/graph_model.jpg?raw=true "The Graph Model - A DATA SCIENCE PERSPECTIVE")
 
-# **2. Installation Guide **
-
+#  **2. Installation Guide**
 To setup cloned virtual environment with required python libraries for table_digitization using environment.yml
 
 Steps:
-1. To recreate cloned environment, go to the environment.yml directory, run command:
+ 1. To recreate cloned environment, go to the environment.yml directory, run command:
 
     conda env create -f environment.yml
             
