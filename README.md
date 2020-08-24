@@ -7,6 +7,21 @@ This is the overview of table digitization process from a data science perspecti
 
 ![Alt text](docs/graph_model.jpg?raw=true "The Graph Model - A DATA SCIENCE PERSPECTIVE")
 
+**A. Header Detection - A DATA SCIENCE PERSPECTIVE**
+
+Header detection is consist of ensamble of two approach:-
+1. Vision Method
+2. NLP method
+![Alt text](docs/header_detection.jpg?raw=true "The Header detection - A DATA SCIENCE PERSPECTIVE")
+
+**a). Vision Method - A DATA SCIENCE PERSPECTIVE**
+
+![Alt text](docs/vision_header.jpg?raw=true "The Vision Method - A DATA SCIENCE PERSPECTIVE")
+
+**b). NLP Method - A DATA SCIENCE PERSPECTIVE**
+
+![Alt text](docs/nlp_header.jpg?raw=true "The NLP Method - A DATA SCIENCE PERSPECTIVE")
+
 #  **2. Installation Guide**
 To setup cloned virtual environment with required python libraries for table_digitization using environment.yml
 
