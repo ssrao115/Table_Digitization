@@ -5,7 +5,7 @@ The objective is to serve as a mini-tutorial introduction to the CTPN Logic.
 
 **A. THE CTPN TUTORIAL - A DATA SCIENCE PERSPECTIVE**
 
-![Alt text](docs/ctpn-1.png?raw=true "THE CTPN TUTORIAL - A DATA SCIENCE PERSPECTIVE")
+![Alt text](docs/w.png?raw=true "THE CTPN TUTORIAL - A DATA SCIENCE PERSPECTIVE")
 
 # **2. digitization_images repo - Notes**
  
